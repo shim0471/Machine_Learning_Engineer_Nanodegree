@@ -1,7 +1,18 @@
 # Machine_Learning_Engineer_Nanodegree
- The Machine Learning Nanodegree program is designed to ensure your 
- long-term success in the field. 
- The skills you learn will prepare you for jobs in machine learning, and you’ll be ready 
- to deliver immediate value 
- to any organization. We will support you throughout your learning journey from gaining valuable technical 
- and career skills, to landing your dream job.
+
+
+
+## In this program you will master Supervised, Unsupervised, Reinforcement, and Deep Learning fundamentals. You will also complete a capstone project in your chosen domain.
+
+<p align = "center">
+<img src = "ML_Nanodegree.png"><br>
+</p>
+
+## Contents  
+
+
+
+
+### <a name="project-overview"></a>Project Overview
+
+The following rated projects were part of this nanodegree:
